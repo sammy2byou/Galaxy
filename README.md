@@ -1,5 +1,6 @@
-# Galaxy
-## Galaxy Classification Project
+# Galaxy Clasification
+## Galaxy Classification Final Project
+By: Ravneek Bhullar & Samantha McKenzie
 
 ### Setting up to run the model on Google Colab 
 - Download dataset to google drive. Specifically, “MyDrive/data”. Keep the files zipped to save space on your dive (and because our code unzips the files as necessary)
@@ -26,3 +27,4 @@
 
 - Finally runn all cells in order excpet 2. Mount Data from Google Drive
 	- Alternatively comment out all of 2 and press the "Run All" button at the top.
+ 
