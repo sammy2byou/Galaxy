@@ -1,1 +1,2 @@
 # Galaxy
+## Galaxy Classification Project
