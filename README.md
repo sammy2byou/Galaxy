@@ -2,14 +2,14 @@
 ## Galaxy Classification Final Project
 By: Ravneek Bhullar & Samantha McKenzie
 
-### Setting up to run the model on Google Colab 
+## Setting up to run the model on Google Colab 
 - Download dataset to google drive. Specifically, “MyDrive/data”. Keep the files zipped to save space on your dive (and because our code unzips the files as necessary)
 	- Alternatively, download the zip files to a folder of your choice and change the path in the code
 	  ``zip_files_path = '/content/drive/MyDrive/YOUR_PATH_HERE/'`` to the path that contains the dataset
 - You can either run each code block individually or go to the top of Google Colab and select Runtime->Run all (ctrl+F9).
 - In the beginning it will ask to connect to your google drive, so don't walk away right a way.
 - Once that's done, the whole code takes around 1.5-2hrs to fully run using the T4 GPU on Google Colab Pro.
-# Setting up to run the model on your Windows Machine
+## Setting up to run the model on your Windows Machine
 - Open Visual Studio Code (VSC)
 - Install the Jupyter extension to VSC https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
   It should also install Jupyter Cell Tags https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags and Jupyter Keymap extensions https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap
@@ -27,4 +27,4 @@ By: Ravneek Bhullar & Samantha McKenzie
 
 - Finally runn all cells in order excpet 2. Mount Data from Google Drive
 	- Alternatively comment out all of 2 and press the "Run All" button at the top.
- 
+ ##
